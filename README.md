@@ -1,0 +1,4 @@
+# doomPro
+Doom project
+This project was created by GeoSpinn, a team of MSc (International) Geomatics students at the Karlsruhe University of Applied Sciences. The task was to create an extension of the existing turf.js spatial analysis library with additional functionalities that make it possible to describe a spatial analysis model using a combination of more than one turf-algorithm, in one step. The application does this by having one button to run a specific model as though it was a core algorithm of the turf.js library. The application is based on openlayers 3 and implements the model functionality using a combination of the following functions: buffer, intersect, union, difference, combine of turf.js. The web application makes use of a dataset consisting of two layers: administrative areas of Baden-Wurttemberg and points with radiation.
+Developer of Model Builder Extension for Turf.JS, the Team Members are: 
