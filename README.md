@@ -43,11 +43,11 @@ Fileinput- This module implements a helper class and functions to quickly write 
 
  
 # Team Members:
-Kristóf
-Md Raqibul Islam
-Oliver Hennhöfer
-Shaiful Islam
-Yair Preiss
+1. Kristóf
+2. Md Raqibul Islam
+3. Oliver Hennhöfer
+4. Shaiful Islam
+5. Yair Preiss
 
  
  
