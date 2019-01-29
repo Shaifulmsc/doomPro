@@ -43,7 +43,7 @@ Fileinput- This module implements a helper class and functions to quickly write 
 
  
 # Team Members:
-1. Kristóf
+1. Kristóf <p>A <a href="http://example.com">link</a>.</p>
 2. Md Raqibul Islam
 3. Oliver Hennhöfer
 4. Shaiful Islam
