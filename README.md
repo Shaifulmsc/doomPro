@@ -12,24 +12,24 @@ CREATE EXTENSION postgis
 If the extension creation for pgrouting fails, you may need to install the extension on your computer first, so that PostgreSQL can extend a database with it. See the pgrouting website for more information.
  
 # Libraries used:
-OS_path- This module implements some useful functions on pathnames. To read or write files see open(), and for accessing the filesystem see the os module. The path parameters can be passed as either strings, or bytes. 
+**OS_path-** This module implements some useful functions on pathnames. To read or write files see open(), and for accessing the filesystem see the os module. The path parameters can be passed as either strings, or bytes. 
 Flask - Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. Wikipedia
  
  
-WTForms- WTForms is a flexible forms validation and rendering library for Python web development. It is framework agnostic and can work with whatever web framework and template engine you choose. 
+**WTForms-** WTForms is a flexible forms validation and rendering library for Python web development. It is framework agnostic and can work with whatever web framework and template engine you choose. 
  
-Passlib.hass - The passlib.hash module contains all the password hash algorithms built into Passlib. While each hash has its own options and output format, they all inherit from the PasswordHash base interface. 
+**Passlib.hass -** The passlib.hash module contains all the password hash algorithms built into Passlib. While each hash has its own options and output format, they all inherit from the PasswordHash base interface. 
  
-Functool - The functools module is for higher-order functions: functions that act on or return other functions. In general, any callable object can be treated as a function for the purposes of this module.
+**Functool -** The functools module is for higher-order functions: functions that act on or return other functions. In general, any callable object can be treated as a function for the purposes of this module.
  
-Flask-mail - The Flask-Mail extension provides a simple interface to set up SMTP with Flask application and to send messages from views and scripts.
+**Flask-mail -** The Flask-Mail extension provides a simple interface to set up SMTP with Flask application and to send messages from views and scripts.
  
-Datetime- The datetime module supplies classes for manipulating dates and times in both simple and complex ways.
+**Datetime-** The datetime module supplies classes for manipulating dates and times in both simple and complex ways.
 geopy.geocoders - geopy is a Python 2 and 3 client for several popular geocoding web services. geopy makes it easy for Python developers to locate the coordinates of addresses, cities, countries, and landmarks across the globe using third-party geocoders and other data sources.
 JSON- 
-Geo-Json- This library implements all the `GeoJSON Objects`_ described in `The GeoJSON Format Specification`_. The objects contained in GeometryCollection and FeatureCollection can be indexed directly.
+**Geo-Json-** This library implements all the `GeoJSON Objects`_ described in `The GeoJSON Format Specification`_. The objects contained in GeometryCollection and FeatureCollection can be indexed directly.
  
-UUID- This module provides immutable UUID objects (the UUID class) and the functions uuid1(), uuid3(), uuid4(), uuid5() for generating version 1, 3, 4, and 5 UUIDs as specified in RFC 4122.
+**UUID-** This module provides immutable UUID objects (the UUID class) and the functions uuid1(), uuid3(), uuid4(), uuid5() for generating version 1, 3, 4, and 5 UUIDs as specified in RFC 4122.
 Fileinput- This module implements a helper class and functions to quickly write a loop over standard input or a list of files. If you just want to read or write one file see open().
  
  
@@ -43,8 +43,7 @@ Fileinput- This module implements a helper class and functions to quickly write 
 
  
 # Team Members:
- <p>1. Kristóf <a href="https://github.com/kgyori">Kristóf</a>.</p> <br>
- <p>1. Kristóf <a href="https://github.com/kgyori">Kristóf</a>.</p> 
+1. Kristóf
 2. Md Raqibul Islam
 3. Oliver Hennhöfer
 4. Shaiful Islam
