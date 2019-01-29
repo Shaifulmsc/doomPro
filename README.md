@@ -11,7 +11,7 @@ CREATE EXTENSION postgis
  
 If the extension creation for pgrouting fails, you may need to install the extension on your computer first, so that PostgreSQL can extend a database with it. See the pgrouting website for more information.
  
-# Libraries used:
+# Libraries used
 **OS_path-** This module implements some useful functions on pathnames. To read or write files see open(), and for accessing the filesystem see the os module. The path parameters can be passed as either strings, or bytes. 
 Flask - Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. Wikipedia
  
