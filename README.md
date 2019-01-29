@@ -36,10 +36,10 @@ Fileinput- This module implements a helper class and functions to quickly write 
  
  
 # JAVASCRIPT Library
-jQuery
-Openlayers
-Bootstrap
-Leaflet
+* jQuery
+* Openlayers
+* Bootstrap
+* Leaflet
 
  
 # Team Members:
