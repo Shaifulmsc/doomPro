@@ -1,7 +1,7 @@
 
 # Overview
 This project was created by DOOM team, a team of MSc (International) Geomatics students at the Karlsruhe University of Applied Sciences. The task was to create trash reporting system for Karlsruhe city. When someone find waste outside from trash or the trash is overloaded he/she can to report the corresponding authority using mobile device. Anyone can inform authority using their mobile just take a picture, take coordinate from picture and submit to web system. While users submit the location coordinate through geocoder, the location will appear in the web map. This application based one python, postgreSql, and javascript. Python is used for backend development, PostgreSQL used for database and leaflet javascript library is used for front development.    
-#Database Setup
+# Database Setup
 This guide is assuming that you wish to simply use the sample data that is available in this repository.
 Set up your PostgreSQL database by following the guide provided by the PostgreSQL wiki.
 Install pgAdminIII or pgAdmin4 from the pgAdmin website. This step is not necessary but recommended for beginners, as it provides a visual interface in which to perform the remaining steps.
