@@ -43,7 +43,8 @@ Fileinput- This module implements a helper class and functions to quickly write 
 
  
 # Team Members:
-1. Kristóf <p>A <a href="http://example.com">link</a>.</p>
+ <p>1. Kristóf <a href="https://github.com/kgyori">Kristóf</a>.</p> <br>
+ <p>1. Kristóf <a href="https://github.com/kgyori">Kristóf</a>.</p> 
 2. Md Raqibul Islam
 3. Oliver Hennhöfer
 4. Shaiful Islam
