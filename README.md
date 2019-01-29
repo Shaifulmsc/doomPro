@@ -1,7 +1,7 @@
 # doomPro
 # Overview
 This project was created by DOOM team, a team of MSc (International) Geomatics students at the Karlsruhe University of Applied Sciences. The task was to create trash reporting system for Karlsruhe city. When someone find waste outside from trash or the trash is overloaded he/she can to report the corresponding authority using mobile device. Anyone can inform authority using their mobile just take a picture, take coordinate from picture and submit to web system. While users submit the location coordinate through geocoder, the location will appear in the web map. This application based one python, postgreSql, and javascript. Python is used for backend development, PostgreSQL used for database and leaflet javascript library is used for front development.    
-Database Setup
+#Database Setup
 This guide is assuming that you wish to simply use the sample data that is available in this repository.
 Set up your PostgreSQL database by following the guide provided by the PostgreSQL wiki.
 Install pgAdminIII or pgAdmin4 from the pgAdmin website. This step is not necessary but recommended for beginners, as it provides a visual interface in which to perform the remaining steps.
@@ -11,7 +11,7 @@ CREATE EXTENSION postgis
  
 If the extension creation for pgrouting fails, you may need to install the extension on your computer first, so that PostgreSQL can extend a database with it. See the pgrouting website for more information.
  
-Libraries used:
+#Libraries used:
 OS_path- This module implements some useful functions on pathnames. To read or write files see open(), and for accessing the filesystem see the os module. The path parameters can be passed as either strings, or bytes. 
 Flask - Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. Wikipedia
  
@@ -35,7 +35,7 @@ Fileinput- This module implements a helper class and functions to quickly write 
  
  
  
-JAVASCRIPT Library
+#JAVASCRIPT Library
 Need to edit after Oliver finished his part
  
 Team Members:
@@ -47,7 +47,7 @@ Yair Preiss
 
  
  
-License information:
+#License information:
 MIT license: Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
