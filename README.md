@@ -13,10 +13,9 @@ Java based Template Engines| View Technologies | GUI development using FreeMarke
  
 # Social Media 
 1. [Youtube](https://www.youtube.com/watch?v=KDQFzPHIKYQ).
-2. Md Raqibul Islam
-3. Oliver Hennhöfer
-4. Shaiful Islam
-5. Yair Preiss
+2. [Facebook page](https://www.facebook.com/uvsoftgroup/).
+3. [Facebook group](https://www.facebook.com/groups/197339797548235/).
+
 
  
  
